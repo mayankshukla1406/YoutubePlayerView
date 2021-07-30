@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "390417369955",
+    "project_id": "fir-8d458",
+    "storage_bucket": "fir-8d458.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390417369955:android:011891621784de0d7ce156",
+        "android_client_info": {
+          "package_name": "com.example.youtube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390417369955-a4h9crktsvh2urqtqfvsegqnmio3skol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApfBQr7JtgiZIw9GeiEQdxoW4xwaPozZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390417369955-a4h9crktsvh2urqtqfvsegqnmio3skol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
